@@ -6,37 +6,37 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMoura-J&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 </div>
-<table border="0">
+<table border=none>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="30" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="40" width="40">
     </td>
     <td>
-      <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="Quarkus" height="30" width="40">
+      <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="Quarkus" height="40" width="40">
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" height="30" width="40">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" height="40" width="40">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" height="30" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" height="40" width="40">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="30" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="40" width="40">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" height="30" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" height="40" width="40">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="DB" height="30" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="DB" height="40" width="40">
     </td>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo" height="30" width="40">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo" height="40" width="40">
     </td>
   </tr>
 </table>
